@@ -1,2 +1,1 @@
-# blog_jetty-display-errors-in-json
-Jetty configuration to display errors in JSON format.
+## Jetty configuration to display error pages in JSON.
