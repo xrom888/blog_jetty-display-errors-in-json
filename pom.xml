@@ -12,7 +12,7 @@
     <properties>
         <jdk.version>1.8</jdk.version>
         <spring.version>5.1.5.RELEASE</spring.version>
-        <jetty.version>9.4.19.v20190610</jetty.version>
+        <jetty.version>9.4.34.v20201102</jetty.version>
         <jetty-maven-plugin.version>9.4.19.v20190610</jetty-maven-plugin.version>
     </properties>
 
